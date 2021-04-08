@@ -5,6 +5,6 @@
 ## Legal
 
 * [Privacy Policy](legal/privacy.md)
-* [Return Policy](legal/return-policy.md)
+* [Refund Policy](legal/refunds.md)
 * [Terms of Service](legal/terms.md)
 

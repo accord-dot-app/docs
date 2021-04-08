@@ -1,12 +1,8 @@
 ---
-description: 'Last Updated April 08, 2021'
+description: 'Last updated April 08, 2021'
 ---
 
 # Terms of Service
-
-## TERMS OF SERVICE
-
-Last updated April 08, 2021
 
 ### AGREEMENT TO TERMS
 
