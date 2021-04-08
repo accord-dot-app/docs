@@ -4,15 +4,6 @@ description: 'Last Updated April 08, 2021'
 
 # Terms of Service
 
-## TL;DR
-
-### For Users
-
-* Self bot accounts are not permitted.
-  * They may be terminated without warning.
-* You must be over the age of 13 to create an account.
-  * This is to comply with [COPPA regulation](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule).
-
 ## TERMS OF SERVICE
 
 Last updated April 08, 2021
