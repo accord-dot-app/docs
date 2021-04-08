@@ -2,6 +2,10 @@
 
 * [Accord Docs](README.md)
 
+## API
+
+* [Overview](api/overview.md)
+
 ## Legal
 
 * [Privacy Policy](legal/privacy.md)
