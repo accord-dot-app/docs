@@ -12,7 +12,6 @@ description: 'Last Updated April 08, 2021'
   * They may be terminated without warning.
 * You must be over the age of 13 to create an account.
   * This is to comply with [COPPA regulation](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule).
-* Comply with us general rules.
 
 ## TERMS OF SERVICE
 
