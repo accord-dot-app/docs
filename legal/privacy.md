@@ -16,5 +16,5 @@ description: 'Last Updated April 08, 2021'
 * Passwords are encrypted in a database.
 * We use [HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) with SSL to secure data between browser and server.
 
-&lt;insert legal jargon here&gt;
+
 
