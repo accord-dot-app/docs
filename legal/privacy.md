@@ -8,7 +8,7 @@ description: Last Updated - 08/04/2021
 
 * We do not directly sell your data to anyone.
 * Data is stored in a secure database.
-* Once you delete data, it is deleted from the database, but not backups.
+* Once you delete data, it is deleted from the database, but not from backups.
 * Data is backed up daily, and records are deleted after one month.
 
 ### How we secure your data
