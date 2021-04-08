@@ -1,5 +1,5 @@
 ---
-description: Last Updated - 08/04/2021
+description: 'Last Updated April 08, 2021'
 ---
 
 # Privacy Policy
