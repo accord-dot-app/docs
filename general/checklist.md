@@ -4,7 +4,7 @@ description: Accord planned features etc.
 
 # Checklist
 
-## Planned Features
+### Planned Features
 
 | Feature | Possible Implementation | Status |
 | :--- | :--- | :--- |
