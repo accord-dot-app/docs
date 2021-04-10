@@ -16,7 +16,7 @@ description: Accord planned features etc.
 
 ### Completed Features
 
-| Feature | Possible Implementation | Date |
+| Feature | Description | Date |
 | :--- | :--- | :--- |
 | **Edit Messages** | Modify message content or remove embeds. | 10/04/21 |
 | **Invite Management** | View or delete guild invites. | 09/04/21 |
