@@ -4,11 +4,14 @@ description: Accord planned features etc.
 
 # Checklist
 
+## To Add
+
 ### Planned Features
 
 | Feature | Possible Implementation | Status |
 | :--- | :--- | :--- |
-| **Edit Messages** |  |  |
+| **Member Management** | Manage guild members \(kick, ban, add/remove roles\). | PENDING |
+| **Delete Account** | Delete user account, along with all guilds, channels etc. | PENDING |
 | **Notifications** | Get notified of unread messages. | IN PROGRESS |
 | **Edit Channels** | Edit channel name, summary etc. | PENDING |
 | **Blocked Users** | Stop receiving websocket events from a user. | PENDING |
@@ -20,6 +23,35 @@ description: Accord planned features etc.
 | :--- | :--- | :--- |
 | **Edit Messages** | Modify message content or remove embeds. | 10/04/21 |
 | **Invite Management** | View or delete guild invites. | 09/04/21 |
+| **Change Password** | Change password via user settings. | 02/04/21 |
 
+## To Test
 
+### API
+
+| Name | Status |
+| :--- | :--- |
+| **HTTP - Auth Routes** | INCOMPLETE |
+| **HTTP - API Routes** | PENDING |
+| **HTTP - Developers Routes** | PENDING |
+| **HTTP - Users Routes** | PENDING |
+| **WS - Disconnect** | PENDING |
+| **WS - Guild Delete** | INCOMPLETE |
+| **WS - Guild Member Update** | PENDING |
+| **WS - Guild Role Create** | PENDING |
+| **WS - Guild Role Delete** | PENDING |
+| **WS - Guild Role Update** | PENDING |
+| **WS - Remove Friend** | PENDING |
+
+### Website
+
+| Feature | Status |
+| :--- | :--- |
+| **User Auth Service** | PENDING |
+| **Users Service** | PENDING |
+| **Channel Service** | PENDING |
+| **Guild Service** | PENDING |
+| **WS Service** | PENDING |
+| **Permissions Service** | PENDING |
+| **Notification Service** | PENDING |
 
