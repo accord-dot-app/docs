@@ -2,6 +2,10 @@
 
 * [Accord Docs](README.md)
 
+## General
+
+* [Checklist](general/checklist.md)
+
 ## API
 
 * [Overview](api/overview.md)
