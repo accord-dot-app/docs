@@ -11,4 +11,5 @@
 * [Privacy Policy](legal/privacy.md)
 * [Refund Policy](legal/refunds.md)
 * [Terms of Service](legal/terms.md)
+* [Cookie Policy](legal/cookie-policy.md)
 
