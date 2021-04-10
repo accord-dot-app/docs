@@ -190,5 +190,7 @@ In order to resolve a complaint regarding the Site or to receive further informa
 **Accord App  
 Email**: support@accord.app
 
-`These terms of use were created using Termly’s Terms and Conditions Generator.`
+{% hint style="info" %}
+These terms of use were created using [Termly’s Terms and Conditions Generator](https://termly.io/products/terms-and-conditions-generator/?ftseo).
+{% endhint %}
 
