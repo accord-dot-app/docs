@@ -6,6 +6,10 @@
 
 * [Checklist](general/checklist.md)
 
+## Features
+
+* [Pings](features/pings.md)
+
 ## API
 
 * [Overview](api/overview.md)
