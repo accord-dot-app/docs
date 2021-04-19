@@ -5,6 +5,7 @@
 ## General
 
 * [Checklist](general/checklist.md)
+* [Changelog](general/changelog.md)
 
 ## Features
 
