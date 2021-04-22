@@ -45,6 +45,7 @@ There's a lot more features than just this...
 | **WS - Guild Role Create** | PENDING |
 | **WS - Guild Role Delete** | PENDING |
 | **WS - Guild Role Update** | PENDING |
+| **WS - Add Friend** | PENDING |
 | **WS - Remove Friend** | PENDING |
 
 ### Website
