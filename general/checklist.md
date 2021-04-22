@@ -14,6 +14,8 @@ description: Accord planned features etc.
 | **Delete Account** | Delete user account, along with all guilds, channels etc. | PENDING |
 | **Edit Channels** | Edit channel name, summary etc. | PENDING |
 | **Voice Channels** | Client-server WebRTC implementation. | PLANNED |
+| **PWA Support** | Ability to download website to save lots of mobile data. | PLANNED |
+| **Mobile Support** | Styling that gives mobile users a seamless experience. | PLANNED |
 
 ### Completed Features
 
@@ -24,6 +26,8 @@ description: Accord planned features etc.
 | **Edit Messages** | Modify message content or remove embeds. | 10/04/21 |
 | **Invite Management** | View or delete guild invites. | 09/04/21 |
 | **Change Password** | Change password via user settings. | 02/04/21 |
+
+There's a lot more features than just this...
 
 ## To Test
 
