@@ -12,15 +12,15 @@ description: Accord planned features etc.
 | :--- | :--- | :--- |
 | **Member Management** | Manage guild members \(kick, ban, add/remove roles\). | PENDING |
 | **Delete Account** | Delete user account, along with all guilds, channels etc. | PENDING |
-| **Notifications** | Get notified of unread messages. | IN PROGRESS |
 | **Edit Channels** | Edit channel name, summary etc. | PENDING |
-| **Blocked Users** | Stop receiving websocket events from a user. | PENDING |
-| **Voice Channels** | Client-server WebRTC implementation. | PENDING |
+| **Voice Channels** | Client-server WebRTC implementation. | PLANNED |
 
 ### Completed Features
 
 | Feature | Description | Date |
 | :--- | :--- | :--- |
+| **Blocked Users** | Stop receiving websocket events from a user. | 17/04/21 |
+| **Notifications** | Get notified of unread messages. | 16/04/21 |
 | **Edit Messages** | Modify message content or remove embeds. | 10/04/21 |
 | **Invite Management** | View or delete guild invites. | 09/04/21 |
 | **Change Password** | Change password via user settings. | 02/04/21 |
