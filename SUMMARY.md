@@ -17,6 +17,7 @@
 
 ## Legal
 
+* [Alpha TOS](legal/alpha-tos.md)
 * [Cookie Policy](legal/cookie-policy.md)
 * [Privacy Policy](legal/privacy.md)
 * [Refund Policy](legal/refunds.md)
