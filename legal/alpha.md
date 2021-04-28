@@ -4,7 +4,7 @@ description: >-
   everyone can enjoy using Accord.
 ---
 
-# Alpha TOS
+# Alpha Terms
 
 {% hint style="info" %}
 Exclusive badges for bug testing _may_ be given. The requirements are subjective to the most useful bug reports. Therefore this would be a hard badge to get.  
