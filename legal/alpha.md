@@ -11,6 +11,17 @@ Exclusive badges for bug testing _may_ be given. The requirements are subjective
 Due to Alpha having lots of bugs, it would be easier to get while Alpha testing.
 {% endhint %}
 
+## **Alpha Guidelines**
+
+* **Inactive accounts may be deleted without notice** - this is only for Alpha releases.
+
+## **Alpha Disclaimer**
+
+* **Not everything will work \(yet\)** - bugs are inevitable when humans program.
+* **Native desktop support** - Native mobile support is planned, but not supported yet. 
+* **25 max testers** - max members limited to minimise impact of bad programming.
+* **Data is not 100% secure \(yet\)** - there is currently limited encryption and there may be exploits.
+
 ## **How To Report Bugs**
 
 ### **What Bugs Should I Report?**
@@ -34,16 +45,7 @@ To report a bug, use the template to fill in a bug report - **linked below**.
 **Bugs may not instantly be fixed** - fixes will be prioritised by quality of bug report, and impact of bug.
 {% endhint %}
 
-## **Alpha Guidelines**
-
-* **Inactive accounts may be deleted without notice** - this is only for Alpha releases.
-
-## **Alpha Disclaimer**
-
-* **Not everything will work \(yet\)** - bugs are inevitable when humans program.
-* **Native desktop support** - Native mobile support is planned, but not supported yet. 
-* **25 max testers** - max members limited to minimise impact of bad programming.
-* **Data is not 100% secure \(yet\)** - there is currently limited encryption and there may be exploits.
+## \*\*\*\*
 
 \*\*\*\*
 
