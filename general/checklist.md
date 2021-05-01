@@ -6,21 +6,24 @@ description: Accord planned features etc.
 
 ## To Add
 
+**Note**: This app is huge...
+
 ### Planned Features
 
 | Feature | Possible Implementation | Status |
 | :--- | :--- | :--- |
-| **Member Management** | Manage guild members \(kick, ban, add/remove roles\). | PENDING |
+| **Ban Members** | Ban members from rejoining a guild. | PENDING |
 | **Delete Account** | Delete user account, along with all guilds, channels etc. | PENDING |
 | **Edit Channels** | Edit channel name, summary etc. | PENDING |
 | **Voice Channels** | Client-server WebRTC implementation. | PLANNED |
-| **PWA Support** | Ability to download website to save lots of mobile data. | PLANNED |
 | **Mobile Support** | Styling that gives mobile users a seamless experience. | PLANNED |
 
 ### Completed Features
 
 | Feature | Description | Date |
 | :--- | :--- | :--- |
+| **Member Management** | Manage guild members \(kick, add/remove roles\). | 01/05/21 |
+| **PWA Support** | Ability to download website to save lots of mobile data. | 24/04/21 |
 | **Blocked Users** | Stop receiving websocket events from a user. | 17/04/21 |
 | **Notifications** | Get notified of unread messages. | 16/04/21 |
 | **Edit Messages** | Modify message content or remove embeds. | 10/04/21 |
