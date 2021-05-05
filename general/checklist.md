@@ -12,6 +12,7 @@ description: Accord planned features etc.
 
 | Feature | Possible Implementation | Status |
 | :--- | :--- | :--- |
+| **Badges** | Bug destroyer badges, OG badges etc. | PENDING |
 | **Ban Members** | Ban members from rejoining a guild. | PENDING |
 | **Delete Account** | Delete user account, along with all guilds, channels etc. | PENDING |
 | **Edit Channels** | Edit channel name, summary etc. | PENDING |
