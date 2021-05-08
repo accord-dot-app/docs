@@ -1,5 +1,5 @@
 ---
-description: Accord updates explained.
+description: The complete log of accord.app updates
 ---
 
 # Changelog
