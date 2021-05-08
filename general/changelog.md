@@ -6,6 +6,16 @@ description: The complete log of accord.app updates
 
 ## Alpha
 
+### v0.2.0a
+
+#### Added
+
+* Role IDs
+
+#### Fixed
+
+* Settings now redirects to previous URL on closing.
+
 ### v0.1.9a
 
 **Date**: 08/05/21
@@ -32,7 +42,7 @@ description: The complete log of accord.app updates
 * Usernames checking now works without an error!
 * /channels/@me/:id was not loading when directly connected to.
 * Pings should no longer crash the app.
-* Messages now appear when you create a user
+* Messages now appear when you create a user.
 
 ### v0.1.8a
 
