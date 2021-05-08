@@ -30,7 +30,6 @@ description: The complete log of accord.app updates
 **Fixed**
 
 * Usernames checking now works without an error!
-* Roles were teleporting every second, which was quite concerning.
 * /channels/@me/:id was not loading when directly connected to.
 * Pings should no longer crash the app.
 * Messages now appear when you create a user
