@@ -6,6 +6,34 @@ description: Accord updates explained.
 
 ## Alpha
 
+### v0.1.9a
+
+**Date**: 08/05/21
+
+#### Added
+
+* **Website Loading Screen**
+  * Half-helpful hints will help you not get bored when loading the page.
+* **Website Testing!**
+  * Some things are no longer broken by design.
+* **Developer Mode**
+  * Hide those IDs if you don't need them
+  * Disabled by default, enable it 
+* **Ping!**
+  * Get notified online and offline, when someone sends a message in a channel.
+  * Mark channels are read, if you need to.
+  * Also, disable pings by toggling after right clicking on the guild, channel, or user.
+* **Changelog Notification**
+  * Find out when we update the app, by just logging in!
+* **Better Role Management**
+  * Roles that cannot be given are now disabled.
+  * Members can now only give roles lower than their own role.
+
+**Fixed**
+
+* Roles were teleporting every second, which was quite concerning.
+* /channels/@me/:id was not loading when directly connected to.
+
 ### v0.1.8a
 
 **Website Security has increased**  
