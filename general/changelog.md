@@ -21,8 +21,6 @@ description: Accord updates explained.
   * Disabled by default, enable it 
 * **Ping!**
   * Get notified online and offline, when someone sends a message in a channel.
-  * Mark channels are read, if you need to.
-  * Also, disable pings by toggling after right clicking on the guild, channel, or user.
 * **Changelog Notification**
   * Find out when we update the app, by just logging in!
 * **Better Role Management**
@@ -31,10 +29,15 @@ description: Accord updates explained.
 
 **Fixed**
 
+* Usernames checking now works without an error!
 * Roles were teleporting every second, which was quite concerning.
 * /channels/@me/:id was not loading when directly connected to.
+* Pings should no longer crash the app.
+* Messages now appear when you create a user
 
 ### v0.1.8a
+
+**Date**: 05/05/21
 
 **Website Security has increased**  
 - Full Strict SSL re-added.  
@@ -49,6 +52,8 @@ description: Accord updates explained.
 ![](../.gitbook/assets/image%20%283%29.png)
 
 ### v0.1.7a
+
+**Date**: 03/05/21
 
 #### First Alpha Release
 
