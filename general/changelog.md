@@ -18,7 +18,7 @@ description: Accord updates explained.
   * Some things are no longer broken by design.
 * **Developer Mode**
   * Hide those IDs if you don't need them
-  * Disabled by default, enable it 
+  * Disabled by default, enable it in user settings.
 * **Ping!**
   * Get notified online and offline, when someone sends a message in a channel.
 * **Changelog Notification**
