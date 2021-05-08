@@ -21,6 +21,7 @@ Due to Alpha having lots of bugs, it would be easier to get while Alpha testing.
 * **Native desktop support** - Native mobile support is planned, but not supported yet. 
 * **25 max testers** - max members limited to minimise impact of bad programming.
 * **Data is not 100% secure \(yet\)** - there is currently limited encryption and there may be exploits.
+* **Uptime may not be great** - current uptime should not reflect future release uptime.
 
 ## **How To Report Bugs**
 
