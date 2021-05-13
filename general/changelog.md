@@ -8,6 +8,8 @@ description: The complete log of accord.app updates
 
 ### v0.2.0a
 
+**Date**: 13/05/21
+
 #### Added
 
 * Role IDs
@@ -15,6 +17,7 @@ description: The complete log of accord.app updates
 #### Fixed
 
 * Settings now redirects to previous URL on closing.
+* API exploit allowing updating any object \(e.g. changing guilds\).
 
 ### v0.1.9a
 
