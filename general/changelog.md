@@ -12,7 +12,9 @@ description: The complete log of accord.app updates
 
 #### Added
 
-* Role IDs
+* **Forgot Your Password?**
+  * You can now reset it, provided you have a verified email.
+* Role IDs now show in role settings.
 
 #### Fixed
 
