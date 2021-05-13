@@ -14,6 +14,8 @@ description: The complete log of accord.app updates
 
 * **Forgot Your Password?**
   * You can now reset it, provided you have a verified email.
+* **Want to use your phone?**
+  * You can now use your phone, with small-screen styling support!
 * Role IDs now show in role settings.
 
 #### Fixed
