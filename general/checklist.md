@@ -6,9 +6,11 @@ description: Accord planned features etc.
 
 ## To Add
 
-**Note**: This app is huge...
-
 ### Planned Features
+
+#### Main
+
+These features are planned to be added.
 
 | Feature | Possible Implementation | Status |
 | :--- | :--- | :--- |
@@ -17,12 +19,24 @@ description: Accord planned features etc.
 | **Delete Account** | Delete user account, along with all guilds, channels etc. | PENDING |
 | **Edit Channels** | Edit channel name, summary etc. | PENDING |
 | **Voice Channels** | Client-server WebRTC implementation. | PLANNED |
-| **Mobile Support** | Styling that gives mobile users a seamless experience. | PLANNED |
+| **Bots** | Bot API with docs, and a basic bot wrapper. | HIDDEN |
+
+#### Possible Features
+
+These features may or may not be added.
+
+| Feature | Possible Implementation | Status |
+| :--- | :--- | :--- |
+| **Role Separation** | Separate members based on roles, in the member list. | CONSIDERING |
+| **Role Mentions** | Mention separate roles. | CONSIDERING |
+| **Ignore Pings** | Ignore pings in specific channels or guilds. | HALF DONE |
+| **Channel Overrides** | Override permissions in specific channels. | CONSIDERING |
 
 ### Completed Features
 
 | Feature | Description | Date |
 | :--- | :--- | :--- |
+| **Mobile Support** | Styling that gives mobile users a seamless experience. | 15/05/21 |
 | **Member Management** | Manage guild members \(kick, add/remove roles\). | 01/05/21 |
 | **PWA Support** | Ability to download website to save lots of mobile data. | 24/04/21 |
 | **Blocked Users** | Stop receiving websocket events from a user. | 17/04/21 |
