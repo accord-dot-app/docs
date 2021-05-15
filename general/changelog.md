@@ -8,20 +8,33 @@ description: The complete log of accord.app updates
 
 ### v0.2.0a
 
-**Date**: 13/05/21
+![Mobile Demo \(Samsung Galaxy A5\)](https://i.ibb.co/52zpHFM/Peek-2021-05-15-20-13.gif)
+
+Yes, this update did take all week, but adding native mobile support was tricky. We're now almost ready for more developers, lest slow development.
+
+**Date**: 15/05/21
 
 #### Added
 
-* **Want to use your phone?**
+* **You Can Now Use Your Phone!**
   * You can now use your phone, with small-screen styling support!
+  * Make sure to install accord.app on your phone for improved performance.
 * **Forgot Your Password?**
   * You can now reset it, provided you have a verified email.
+  * A new password will be generated, allowing you to use it as an old password when changing it. 
+* **Text Channel Loading**
+  * Only load the messages you need to improve performance. 
 * Role IDs now show in role settings.
 
 #### Fixed
 
 * Settings now redirects to previous URL on closing.
 * API exploit allowing updating any object \(e.g. changing guilds\).
+* Bug which crashes channels with over 100 messages, should now be fixed.
+
+... and lots of more bugs...
+
+Prevention is the key when it comes to fixing bugs, not the cure. We have added website tests to prevent bugs, and may have not discovered bugs that disappeared this way.
 
 ### v0.1.9a
 

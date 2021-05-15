@@ -7,10 +7,6 @@
 * [Checklist](general/checklist.md)
 * [Changelog](general/changelog.md)
 
-## Features
-
-* [Pings](features/pings.md)
-
 ## API
 
 * [Overview](api/overview.md)
