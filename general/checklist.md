@@ -6,6 +6,10 @@ description: Accord planned features etc.
 
 ## To Add
 
+{% hint style="info" %}
+One aim for accord.app is to only add valuable features, that add value to the user. All other features are considered waste, and should not be implemented.  
+{% endhint %}
+
 ### Planned Features
 
 #### Main
