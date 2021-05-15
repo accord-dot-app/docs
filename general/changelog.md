@@ -36,6 +36,11 @@ Yes, this update did take all week, but adding native mobile support was tricky.
 
 Prevention is the key when it comes to fixing bugs, not the cure. We have added website tests to prevent bugs, and may have not discovered bugs that disappeared this way.
 
+**Removed**
+
+* **Emoji Picker**
+  * It may be back... :thinking:
+
 ### v0.1.9a
 
 **Date**: 08/05/21
