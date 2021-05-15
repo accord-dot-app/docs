@@ -8,11 +8,11 @@ description: The complete log of accord.app updates
 
 ### v0.2.0a
 
+**Date**: 15/05/21
+
 ![Mobile Demo \(Samsung Galaxy A5\)](https://i.ibb.co/52zpHFM/Peek-2021-05-15-20-13.gif)
 
 Yes, this update did take all week, but adding native mobile support was tricky. We're now almost ready for more developers, lest slow development.
-
-**Date**: 15/05/21
 
 #### Added
 
