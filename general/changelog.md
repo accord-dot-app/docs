@@ -6,6 +6,12 @@ description: The complete log of accord.app updates
 
 ## Alpha
 
+### v0.2.1a
+
+#### Fixed
+
+* Bug which crashes channels that mention unknown users is now fixed.
+
 ### v0.2.0a
 
 **Date**: 15/05/21
@@ -30,7 +36,6 @@ Yes, this update did take all week, but adding native mobile support was tricky.
 
 * Settings now redirects to previous URL on closing.
 * API exploit allowing updating any object \(e.g. changing guilds\).
-* Bug which crashes channels with over 100 messages, should now be fixed.
 
 ... and lots of more bugs...
 
