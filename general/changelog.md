@@ -6,6 +6,10 @@ description: The complete log of accord.app updates
 
 ## Alpha
 
+{% hint style="info" %}
+Alpha updates may contain break features. Stability will improve as more tests are added.
+{% endhint %}
+
 ### v0.2.1a
 
 #### Fixed
