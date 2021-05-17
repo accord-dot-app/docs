@@ -15,6 +15,7 @@ Alpha updates may break specific features \(e.g. updating roles\). Stability wil
 #### Fixed
 
 * Bug which crashes channels that mention unknown users is now fixed.
+* Roles should now update without errors.
 
 ### v0.2.0a
 
