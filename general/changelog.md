@@ -7,7 +7,7 @@ description: The complete log of accord.app updates
 ## Alpha
 
 {% hint style="info" %}
-Alpha updates may break specific features \(e.g. roles\). Stability will improve as more tests are added.
+Alpha updates may break specific features \(e.g. updating roles\). Stability will improve as more tests are added.
 {% endhint %}
 
 ### v0.2.1a
