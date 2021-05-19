@@ -12,6 +12,20 @@ Alpha updates may break specific features \(e.g. updating roles\). Stability wil
 
 ### v0.2.1a
 
+**Date**: 19/05/21
+
+**Added**
+
+* **Role Separation**
+  * Separate roles based on heirarchy, displaye on the member list
+* **Reorder Things**
+  * Guilds -&gt; from main sidebar
+  * Reorder channels -&gt; from guild sidebar
+  * Reoder roles -&gt; from guild settings
+* **Delete Your Account**
+  * Can be done in user settings
+  * This marks your user as deleted, but things like messages are not deleted \(yet\).
+
 #### Fixed
 
 * Bug which crashes channels that mention unknown users is now fixed.
