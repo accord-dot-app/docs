@@ -1,4 +1,4 @@
 # Cookie Policy
 
-🍪 We use cookies.
+🍪 We use cookies so you can customize your experience.
 
