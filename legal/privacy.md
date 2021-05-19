@@ -1,5 +1,5 @@
 ---
-description: 'Last Updated April 08, 2021'
+description: 'Last Updated May 19, 2021'
 ---
 
 # Privacy Policy
@@ -9,7 +9,7 @@ description: 'Last Updated April 08, 2021'
 * We do not directly sell your data to anyone.
 * Data is stored in a secure database.
 * Once you delete data, it is deleted from the database, but not from backups.
-* Data is backed up daily, and records are deleted after one month.
+* Data is backed up daily, and records are deleted after one week.
 
 ### How we secure your data
 
