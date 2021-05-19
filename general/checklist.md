@@ -20,7 +20,6 @@ These features are planned to be added.
 | :--- | :--- | :--- |
 | **Badges** | Bug destroyer badges, OG badges etc. | PENDING |
 | **Ban Members** | Ban members from rejoining a guild. | PENDING |
-| **Delete Account** | Delete user account, along with all guilds, channels etc. | PENDING |
 | **Edit Channels** | Edit channel name, summary etc. | PENDING |
 | **Voice Channels** | Client-server WebRTC implementation. | PLANNED |
 | **Bots** | Bot API with docs, and a basic bot wrapper. | HIDDEN |
@@ -40,6 +39,7 @@ These features may or may not be added.
 
 | Feature | Description | Date |
 | :--- | :--- | :--- |
+| **Delete Account** | Delete user account, along with all guilds, channels etc. | 19/05/21 |
 | **Mobile Support** | Styling that gives mobile users a seamless experience. | 15/05/21 |
 | **Member Management** | Manage guild members \(kick, add/remove roles\). | 01/05/21 |
 | **PWA Support** | Ability to download website to save lots of mobile data. | 24/04/21 |
