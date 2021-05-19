@@ -1,5 +1,5 @@
 ---
-description: 'Last Updated May 19, 2021'
+description: 'View how we collect, secure, and manage your data.'
 ---
 
 # Privacy Policy
