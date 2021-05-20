@@ -1,3 +1,7 @@
+---
+description: Last updated at 20/05/21.
+---
+
 # Cookie Policy
 
 🍪 We use cookies.
@@ -9,5 +13,5 @@
 
 ### Third-party Cookies
 
-We use services from websites such as arc.io, and Google Analytics. These services may collect numerical data on website usage, and do not need to be enabled to use the website.
+We use services from websites such as arc.io, and Google Analytics. These services may collect numerical data on website usage, and you may be able to opt-out from them, if you wish.
 
