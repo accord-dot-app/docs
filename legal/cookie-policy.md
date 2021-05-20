@@ -1,5 +1,5 @@
 ---
-description: Last updated at 20/05/21.
+description: Last updated on 20th May 2021.
 ---
 
 # Cookie Policy
